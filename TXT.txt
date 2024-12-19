@@ -1,0 +1,4 @@
+1 ABCD
+2 ABCDE
+3 ACDE
+4 ABABc
