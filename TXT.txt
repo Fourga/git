@@ -1,5 +1,5 @@
-1 ABCD
-2 ABCDE
-3 ACDE
-4 ABABc
-5dev
+A
+BBB
+C
+D
+e
