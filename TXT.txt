@@ -1,6 +1,4 @@
-1 ABCD
-2 ABCDE
-3 ACDE
-4 ABABc
-5dev
-6main
+A
+B
+C
+D
